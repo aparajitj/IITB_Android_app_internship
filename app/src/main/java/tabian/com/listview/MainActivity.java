@@ -78,10 +78,10 @@ public class MainActivity extends AppCompatActivity {
                             } else if (position == 3) {
                                 Intent x = new Intent(view.getContext(), abcdefghi.class);
                                 startActivity(x);
-                            } else if (position == 1) {
+                            } else if (position == 4) {
                                 Intent x = new Intent(view.getContext(), jklmno.class);
                                 startActivity(x);
-                            } else if (position == 1) {
+                            } else if (position == 5) {
                                 Intent x = new Intent(view.getContext(), jkpqr.class);
                                 startActivity(x);
                             }
@@ -107,12 +107,12 @@ public class MainActivity extends AppCompatActivity {
                                 Intent x= new Intent(view.getContext(),abcdef.class);
                                 startActivity(x);
                             }
-                            else  if (position==1)
+                            else  if (position==4)
                             {
                                 Intent x= new Intent(view.getContext(),abcdefghi.class);
                                 startActivity(x);
                             }
-                            else  if (position==1)
+                            else  if (position==5)
                             {
                                 Intent x= new Intent(view.getContext(),jklmno.class);
                                 startActivity(x);
@@ -139,12 +139,12 @@ public class MainActivity extends AppCompatActivity {
                                 Intent x= new Intent(view.getContext(),abc.class);
                                 startActivity(x);
                             }
-                            else  if (position==1)
+                            else  if (position==4)
                             {
                                 Intent x= new Intent(view.getContext(),abcd.class);
                                 startActivity(x);
                             }
-                            else  if (position==1)
+                            else  if (position==5)
                             {
                                 Intent x= new Intent(view.getContext(),abcdef.class);
                                 startActivity(x);
